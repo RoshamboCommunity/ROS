@@ -33,11 +33,11 @@ The goal is to bring people closer to each other in a more fun and engaging way.
 
 Is Liquidity Locked?
 
-- Yes. (The Liquidity will be locked in couple of hours of Launch)
+- Yes. https://etherscan.io/tx/0x1937e48af9ea5f3f08f2242ccfcca8d889fe3c48e89d042b1f6d5e738d7f7bf2
 
 Contract Address?
 
-- To be announced at Launch.
+- 0x2DAf397bE543cB416ff09A7F48eE5505b074BEde  [https://etherscan.io/token/0x2daf397be543cb416ff09a7f48ee5505b074bede]
 
 What chain is the Roshambo Project will be launched on?
 
